@@ -1,0 +1,8 @@
+Name: Aishwarya B 
+Id: EMP1234 
+Address: 56, North car street, Thoothukudi, Tamilnadu 
+Stream: Computer Science 
+Qualification: MCA 
+Hobbies: Playing Chess 
+Strength: Ability to grow knowledge 
+Weakness: De-motivation
